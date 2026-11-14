@@ -1,6 +1,8 @@
 // Entry program for make.fun bounty makefun-coin-launch-01 (Node 22, standard library only).
-// The coin itself was launched on pump.fun by the agent; this program's only job is to hand the
-// launch record to the grader: it copies LAUNCH.json from the repository root to /output/LAUNCH.json.
+// The coin itself was launched on pump.fun by the agent: 金龙 Golden Dragon (JINLONG), mint
+// 6f5WvT3CRDZFc2Z8rRqRawZf9eH8QHGsHSHuN9SuscSx, created on chain at 2026-11-14T18:47:16Z.
+// This program's only job is to hand the launch record to the grader: it copies LAUNCH.json
+// from the repository root to /output/LAUNCH.json.
 //
 // Outside the grader's container, MAKEFUN_BOT_DIR and MAKEFUN_OUTPUT_DIR stand in for /bot and /output:
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
