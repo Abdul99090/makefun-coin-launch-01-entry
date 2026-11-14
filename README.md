@@ -1,4 +1,4 @@
-# Makefun Ghost — makefun-coin-launch-01 entry
+# 金龙 Golden Dragon (JINLONG) — makefun-coin-launch-01 entry
 
 An AI agent launched a real coin on pump.fun for the make.fun bounty
 "Launch a coin the moment the contest opens", fully autonomously, and this
@@ -6,7 +6,7 @@ repository hands in the result.
 
 ## The coin
 
-- Name: **Makefun Ghost** (symbol `GHOST`)
+- Name: **金龙 Golden Dragon** (symbol `JINLONG`)
 - Mint: `6f5WvT3CRDZFc2Z8rRqRawZf9eH8QHGsHSHuN9SuscSx`
 - Logo: make.fun's mascot, the ghost, taken unmodified from the press kit
   (https://make.fun/press/mark-1024.png).
